@@ -1,0 +1,1024 @@
+{
+    "tree_1d_dgsem/elixir_mhd_ec.jl/p3_analysis": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 7521.25,
+                    "max_ns": 24443.25,
+                    "percentile_99_ns": 12910.875,
+                    "std_dev_ns": 1469.8786339007195,
+                    "mean_ns": 7865.2397625,
+                    "min_ns": 6860.125,
+                    "percentile_95_ns": 11685.40625
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 8,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_1d_dgsem/elixir_mhd_ec.jl/p3_rhs!": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 17473.1,
+                    "max_ns": 38767.2,
+                    "percentile_99_ns": 21228.888,
+                    "std_dev_ns": 1300.8168010581767,
+                    "mean_ns": 17744.19806,
+                    "min_ns": 9816,
+                    "percentile_95_ns": 19505.819999999996
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 5,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_2d_dgsem/elixir_advection_amr_nonperiodic.jl/p3_analysis": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 2.3558335e6,
+                    "max_ns": 3249842,
+                    "percentile_99_ns": 3.0905925999999996e6,
+                    "std_dev_ns": 257351.0952853372,
+                    "mean_ns": 2.474930007936508e6,
+                    "min_ns": 2168800,
+                    "percentile_95_ns": 3.06791675e6
+                },
+                "samples": {
+                    "count": 2016
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_2d_dgsem/elixir_advection_amr_nonperiodic.jl/p7_rhs!": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 1194650,
+                    "max_ns": 4230560,
+                    "percentile_99_ns": 1.7239191099999999e6,
+                    "std_dev_ns": 165426.0475931216,
+                    "mean_ns": 1.2210474955445544e6,
+                    "min_ns": 731138,
+                    "percentile_95_ns": 1454239
+                },
+                "samples": {
+                    "count": 4040
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_1d_dgsem/elixir_mhd_ec.jl/p7_rhs!": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 42513,
+                    "max_ns": 89292,
+                    "percentile_99_ns": 54611.980000000025,
+                    "std_dev_ns": 2757.2777678017987,
+                    "mean_ns": 43107.0309,
+                    "min_ns": 37810,
+                    "percentile_95_ns": 49839.100000000006
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "structured_1d_dgsem/elixir_euler_sedov.jl/p3_rhs!": {
+        "ghi789j": {
+            "data": {
+                "time": {
+                    "median_ns": 1034567890,
+                    "max_ns": 1300000000,
+                    "std_dev_ns": 40000000,
+                    "mean_ns": 1045678901,
+                    "min_ns": 950000000
+                },
+                "samples": {
+                    "count": 1000
+                },
+                "memory": {
+                    "allocations": 1024,
+                    "allocated_bytes": 1048576
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "branch": "main",
+                    "message": "Further improvements",
+                    "hash": "ghi789jkl012",
+                    "short_hash": "ghi789j"
+                },
+                "run_id": "550e8400-e29b-41d4-a716-446655440003",
+                "environment": {
+                    "julia_version": "1.10.0"
+                },
+                "timestamp": "2025-10-31T20:45:00.000Z"
+            }
+        },
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 23915,
+                    "max_ns": 1122593,
+                    "percentile_99_ns": 47381.77000000002,
+                    "std_dev_ns": 17963.924809120606,
+                    "mean_ns": 25909.554,
+                    "min_ns": 23533,
+                    "percentile_95_ns": 45313.049999999996
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        },
+        "abc123d": {
+            "data": {
+                "time": {
+                    "median_ns": 1234567890,
+                    "max_ns": 1500000000,
+                    "std_dev_ns": 50000000,
+                    "mean_ns": 1245678901,
+                    "min_ns": 1100000000
+                },
+                "samples": {
+                    "count": 1000
+                },
+                "memory": {
+                    "allocations": 1024,
+                    "allocated_bytes": 1048576
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "dev@example.com",
+                    "branch": "main",
+                    "message": "Initial benchmark",
+                    "hash": "abc123def456",
+                    "short_hash": "abc123d"
+                },
+                "run_id": "550e8400-e29b-41d4-a716-446655440001",
+                "environment": {
+                    "julia_version": "1.10.0",
+                    "cpu": "Intel Core i9-9900K",
+                    "os": "Linux"
+                },
+                "timestamp": "2025-10-31T18:00:00.000Z"
+            }
+        },
+        "def456g": {
+            "data": {
+                "time": {
+                    "median_ns": 1134567890,
+                    "max_ns": 1400000000,
+                    "std_dev_ns": 45000000,
+                    "mean_ns": 1145678901,
+                    "min_ns": 1000000000
+                },
+                "samples": {
+                    "count": 1000
+                },
+                "memory": {
+                    "allocations": 1024,
+                    "allocated_bytes": 1048576
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "branch": "main",
+                    "message": "Optimization attempt",
+                    "hash": "def456ghi789",
+                    "short_hash": "def456g"
+                },
+                "run_id": "550e8400-e29b-41d4-a716-446655440002",
+                "environment": {
+                    "julia_version": "1.10.0",
+                    "os": "Linux"
+                },
+                "timestamp": "2025-10-31T19:30:00.000Z"
+            }
+        }
+    },
+    "structured_1d_dgsem/elixir_euler_sedov.jl/p7_analysis": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 17931,
+                    "max_ns": 120590,
+                    "percentile_99_ns": 23970.190000000002,
+                    "std_dev_ns": 1739.9292182031847,
+                    "mean_ns": 18206.3877,
+                    "min_ns": 16055,
+                    "percentile_95_ns": 20736.1
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 128,
+                    "allocated_bytes": 8192
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_2d_dgsem/elixir_advection_amr_nonperiodic.jl/p7_analysis": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 14569881,
+                    "max_ns": 15447040,
+                    "percentile_99_ns": 1.535017832e7,
+                    "std_dev_ns": 159317.75636298684,
+                    "mean_ns": 1.4618267733918129e7,
+                    "min_ns": 14484557,
+                    "percentile_95_ns": 14991191
+                },
+                "samples": {
+                    "count": 342
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_2d_dgsem/elixir_advection_extended.jl/p7_analysis": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 3187537,
+                    "max_ns": 6002768,
+                    "percentile_99_ns": 3691473,
+                    "std_dev_ns": 230270.21171261146,
+                    "mean_ns": 3.19354468488746e6,
+                    "min_ns": 2863953,
+                    "percentile_95_ns": 3.5887172e6
+                },
+                "samples": {
+                    "count": 1555
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_2d_dgsem/elixir_advection_extended.jl/p7_rhs!": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 621496,
+                    "max_ns": 2141120,
+                    "percentile_99_ns": 920736.1700000003,
+                    "std_dev_ns": 100518.54231324804,
+                    "mean_ns": 644950.1179022082,
+                    "min_ns": 375337,
+                    "percentile_95_ns": 830183.95
+                },
+                "samples": {
+                    "count": 7608
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "structured_1d_dgsem/elixir_euler_sedov.jl/p3_analysis": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 13272,
+                    "max_ns": 125001,
+                    "percentile_99_ns": 17942.600000000013,
+                    "std_dev_ns": 2412.991685811845,
+                    "mean_ns": 12900.6493,
+                    "min_ns": 10181,
+                    "percentile_95_ns": 15971.399999999994
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 128,
+                    "allocated_bytes": 6144
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_2d_dgsem/elixir_advection_extended.jl/p3_analysis": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 602691,
+                    "max_ns": 2082694,
+                    "percentile_99_ns": 844744.8200000001,
+                    "std_dev_ns": 160378.92736019127,
+                    "mean_ns": 558357.454690346,
+                    "min_ns": 306325,
+                    "percentile_95_ns": 790030.9999999999
+                },
+                "samples": {
+                    "count": 8784
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "structured_1d_dgsem/elixir_euler_sedov.jl/p7_rhs!": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 62168,
+                    "max_ns": 108051,
+                    "percentile_99_ns": 67506.01999999999,
+                    "std_dev_ns": 2353.76273860365,
+                    "mean_ns": 61698.6951,
+                    "min_ns": 56960,
+                    "percentile_95_ns": 65141.499999999985
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_2d_dgsem/elixir_advection_extended.jl/p3_rhs!": {
+        "ghi789j": {
+            "data": {
+                "time": {
+                    "median_ns": 2145678901,
+                    "max_ns": 2450000000,
+                    "std_dev_ns": 60000000,
+                    "mean_ns": 2256789012,
+                    "min_ns": 2000000000
+                },
+                "samples": {
+                    "count": 1000
+                },
+                "memory": {
+                    "allocations": 2048,
+                    "allocated_bytes": 2097152
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "branch": "main",
+                    "message": "Further improvements",
+                    "hash": "ghi789jkl012",
+                    "short_hash": "ghi789j"
+                },
+                "run_id": "550e8400-e29b-41d4-a716-446655440003",
+                "environment": {
+                    "julia_version": "1.10.0"
+                },
+                "timestamp": "2025-10-31T20:45:00.000Z"
+            }
+        },
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 157663.5,
+                    "max_ns": 1346780,
+                    "percentile_99_ns": 354065.95000000007,
+                    "std_dev_ns": 43152.86323379663,
+                    "mean_ns": 168695.2584,
+                    "min_ns": 130707,
+                    "percentile_95_ns": 252889.74999999988
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        },
+        "abc123d": {
+            "data": {
+                "time": {
+                    "median_ns": 2345678901,
+                    "max_ns": 2600000000,
+                    "std_dev_ns": 70000000,
+                    "mean_ns": 2456789012,
+                    "min_ns": 2200000000
+                },
+                "samples": {
+                    "count": 1000
+                },
+                "memory": {
+                    "allocations": 2048,
+                    "allocated_bytes": 2097152
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "branch": "main",
+                    "message": "Initial benchmark",
+                    "hash": "abc123def456",
+                    "short_hash": "abc123d"
+                },
+                "run_id": "550e8400-e29b-41d4-a716-446655440001",
+                "environment": {
+                    "julia_version": "1.10.0"
+                },
+                "timestamp": "2025-10-31T18:00:00.000Z"
+            }
+        },
+        "def456g": {
+            "data": {
+                "time": {
+                    "median_ns": 2245678901,
+                    "max_ns": 2500000000,
+                    "std_dev_ns": 65000000,
+                    "mean_ns": 2356789012,
+                    "min_ns": 2100000000
+                },
+                "samples": {
+                    "count": 1000
+                },
+                "memory": {
+                    "allocations": 2048,
+                    "allocated_bytes": 2097152
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "branch": "main",
+                    "message": "Optimization attempt",
+                    "hash": "def456ghi789",
+                    "short_hash": "def456g"
+                },
+                "run_id": "550e8400-e29b-41d4-a716-446655440002",
+                "environment": {
+                    "julia_version": "1.10.0"
+                },
+                "timestamp": "2025-10-31T19:30:00.000Z"
+            }
+        }
+    },
+    "tree_1d_dgsem/elixir_mhd_ec.jl/p7_analysis": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 16580.166666666668,
+                    "max_ns": 391768.6666666667,
+                    "percentile_99_ns": 26710.733333333334,
+                    "std_dev_ns": 5471.997444640041,
+                    "mean_ns": 18391.4719,
+                    "min_ns": 14350.666666666666,
+                    "percentile_95_ns": 24335.816666666666
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 3,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    },
+    "tree_2d_dgsem/elixir_advection_amr_nonperiodic.jl/p3_rhs!": {
+        "unknown": {
+            "data": {
+                "gc": {
+                    "total_time_ns": 0,
+                    "mean_time_ns": 0,
+                    "count": 0
+                },
+                "time": {
+                    "median_ns": 271799,
+                    "max_ns": 462538,
+                    "percentile_99_ns": 347319.21,
+                    "std_dev_ns": 44811.67155643245,
+                    "mean_ns": 258540.5373,
+                    "min_ns": 196094,
+                    "percentile_95_ns": 322002.6
+                },
+                "samples": {
+                    "count": 10000
+                },
+                "memory": {
+                    "allocations": 0,
+                    "allocated_bytes": 0
+                },
+                "params": {
+                    "samples": 10000,
+                    "evals": 1,
+                    "seconds": 5
+                }
+            },
+            "metadata": {
+                "commit": {
+                    "author": "",
+                    "branch": "unknown",
+                    "message": "",
+                    "hash": "unknown",
+                    "date": "",
+                    "short_hash": "unknown"
+                },
+                "run_id": "9f2d58d2-83fb-4e4e-97b3-be9608e8003a",
+                "environment": {
+                    "julia_version": "1.11.5",
+                    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "ram_gb": 16.48,
+                    "hostname": "yarka-RLEF-XX",
+                    "os": "Linux",
+                    "cpu_cores": 20
+                },
+                "timestamp": "2025-11-03T15:11:20.725Z"
+            }
+        }
+    }
+}
