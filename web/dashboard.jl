@@ -101,18 +101,16 @@ app = App() do session::Session
         DOM.div("")
     end
     
-    println("📊 Creating plot 1: $DEFAULT_BENCH_1")
     fig1 = create_benchmark_plot(DEFAULT_BENCH_1, "Benchmark 1: $DEFAULT_BENCH_1")
     plot1_container = DOM.div([
-        DOM.h2("📈 Benchmark 1", style="color:#333; margin-top:30px;"),
+        DOM.h2("Benchmark 1", style="color:#333; margin-top:30px;"),
         DOM.p(DEFAULT_BENCH_1, style="color:#666; font-family:monospace; font-size:0.9em;"),
         fig1
     ], style="background:#fff; padding:20px; margin:20px 0; border-radius:10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);")
     
-    println("📊 Creating plot 2: $DEFAULT_BENCH_2")
     fig2 = create_benchmark_plot(DEFAULT_BENCH_2, "Benchmark 2: $DEFAULT_BENCH_2")
     plot2_container = DOM.div([
-        DOM.h2("📈 Benchmark 2", style="color:#333; margin-top:30px;"),
+        DOM.h2("enchmark 2", style="color:#333; margin-top:30px;"),
         DOM.p(DEFAULT_BENCH_2, style="color:#666; font-family:monospace; font-size:0.9em;"),
         fig2
     ], style="background:#fff; padding:20px; margin:20px 0; border-radius:10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);")
